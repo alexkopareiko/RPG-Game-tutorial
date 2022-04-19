@@ -9,9 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 23318a5b7158e324b8cad6edb7444f0d, type: 3}
-  m_Name: Helmet
+  m_Script: {fileID: 11500000, guid: 6d2bcb0a570024d43b7370d51f51463b, type: 3}
+  m_Name: Helmet of Protection
   m_EditorClassIdentifier: 
   name: Helmet of Protection
-  icon: {fileID: 21300000, guid: 683b3d982cabaf04c89eabda2ca7a8cf, type: 3}
+  icon: {fileID: 21300000, guid: cc13d0869abf241439ba15ba36d66b35, type: 3}
   isDefaultItem: 0
+  equipSlot: 0
+  armorModifier: 3
+  damageModifier: 0
